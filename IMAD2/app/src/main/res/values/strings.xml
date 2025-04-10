@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">IMAD</string>
+    <string name="textview">TextView</string>
+    <string name="my_meals">My Meals</string>
+    <string name="name">Name</string>
+    <string name="reset">Reset</string>
+    <string name="submit">Submit</string>
+    <string name="morning">eggs</string>
+    <string name="midmorning">fruit salad</string>
+</resources>
