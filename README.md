@@ -5,8 +5,8 @@ STUDENT NUMBER:ST10488397
 
 This is a meal suggestion app , i have created the app to help my friend to decide on a meal since my friend cannot decide what to eat
 
-https://github.com/Anayo635/IMAD
-https://youtu.be/IwKbHPl7YAs?si=ofemaFZCUvT9OVbv
+ gitHub - https://github.com/Anayo635/IMAD
+ youtube - https://youtu.be/IwKbHPl7YAs?si=ofemaFZCUvT9OVbv
 
 ![screenshot1](https://github.com/user-attachments/assets/eff70e63-16f8-4954-b260-6d9453074253)
 
